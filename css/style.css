@@ -1,0 +1,13 @@
+body {
+    min-width: 360px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.block {
+    background: #eee;
+    border: 1px solid #ccc;
+}
